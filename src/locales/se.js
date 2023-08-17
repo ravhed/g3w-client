@@ -2,7 +2,7 @@ export default {
   translation: {
     error_page: {
       error: "Anslutningsfel",
-      at_moment: "För närvarande är inte möjligt visa karta",
+      at_moment: "För närvarande är det inte möjligt att visa karta",
       f5: "Tryck på Ctrl+F5"
     },
     cookie_law: {
